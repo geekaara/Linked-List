@@ -1,2 +1,2 @@
 # Linked-List
-Inserting a anode at the beginning of the linked list
+Inserting a node at the beginning of the linked list
